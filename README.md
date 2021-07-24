@@ -1,4 +1,4 @@
-# unit_21_smart_contracts
+# unit_20_smart_contracts
 
 ![Smart Contract Picture 1](SC1.png)
 
